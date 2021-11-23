@@ -14,7 +14,7 @@ mamba env create -f environment.yml
 Activate the environment using :  
 	conda activate lpytraining
 
-#IF YOU WANT YOUR OWN CONDA ENVIRONMENTT
+# IF YOU WANT YOUR OWN CONDA ENVIRONMENTT
 
 conda install mamba -c conda-forge
 
@@ -26,16 +26,16 @@ conda install -c conda-forge jupyterlab
 pip install pgljupyter
 
 
-#use command below to see packages 
+ #use command below to see packages 
 conda list 
 
 # install Vstudio and link in your github account
 
-## you need to install juptyper and github addins into vstudio
-### I installed Jupyter, Jupyter Keymap Jypyter Notebook Renderers Pylance and Python- I don't know if all of this is needed
+you need to install juptyper and github addins into vstudio
+I installed Jupyter, Jupyter Keymap Jypyter Notebook Renderers Pylance and Python- I don't know if all of this is needed
 
-# you can the clone or start the repository within vstudio
-# you shoul also be able to see and select the version of python in the conda environment that you want in order to execute code using lpy
+you can the clone or start the repository within vstudio
+you shoul also be able to see and select the version of python in the conda environment that you want in order to execute code using lpy
 
-### sidenote can't get the juptyter api for graphics working in safari- not a big exploration yet, find in chroms
+sidenote can't get the juptyter api for graphics working in safari- not a big exploration yet, find in chroms
 
