@@ -1,5 +1,6 @@
-# Installation - generic, but definitelu works on M1
+# Installation - generic, but definitely works on Mac M1
 
+This is the instruction set for models 
 GitHub Repository is available at : https://github.com/openalea-training/niab_workshop
 
 Install GitHub Desktop and if you are familiar with git clone the repository niab_workshop. 
